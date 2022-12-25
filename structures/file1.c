@@ -25,4 +25,6 @@ int main(void)
     printf("compuer speed : %d GHZ\n",model.cpu_speed);
     printf("compuer year : %d\n",model.year);
     printf("compuer cost : %.2f Cedis\n",model.cost);
+
+    return 0;
 }
