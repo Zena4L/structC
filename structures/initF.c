@@ -8,7 +8,7 @@ int main()
     struct employee{
         int id;
         char name[32];
-    };
+    } ;
     /* Structure initialization*/
     struct employee info = {
         1,
